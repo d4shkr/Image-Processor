@@ -1,0 +1,15 @@
+# ninja log v5
+5	1928	7014848510312345	CMakeFiles/my_project.dir/main.cpp.obj	7af86b2bcfe680fa
+51	8245	7015637621096103	CMakeFiles/my_project.dir/image.cpp.obj	97ac6261dc598ebe
+82	779	7014848498776830	CMakeFiles/my_project.dir/base_filter.cpp.obj	22f82c6348a526b4
+17	627	7014848497245002	CMakeFiles/my_project.dir/exceptions.cpp.obj	1afcfa77efd2cc4f
+3234	4529	7015681342524152	my_project.exe	d30215ffe1bc483d
+214	7391	7015637612152032	CMakeFiles/my_project.dir/grayscale.cpp.obj	f9bdeabf728650f
+381	7309	7015637611593419	CMakeFiles/my_project.dir/negative.cpp.obj	c0e03d03edbb9e8f
+2	319	7016306034825592	build.ninja	8eb456200d2daa45
+546	7357	7015637611879045	CMakeFiles/my_project.dir/crop.cpp.obj	eb348dea5c3e04c7
+171	7626	7015637614307023	CMakeFiles/my_project.dir/sharpening.cpp.obj	619648d1a2856a16
+7357	8907	7015637627835578	CMakeFiles/my_project.dir/edge.cpp.obj	f5f2bfe5130b21ce
+11	3234	7015681329531061	CMakeFiles/my_project.dir/parsing.cpp.obj	9139109785c07307
+7310	8926	7015637628043181	CMakeFiles/my_project.dir/gaussian_blur.cpp.obj	a3d45511b2b9a2fc
+33	1798	7015681315267903	CMakeFiles/my_project.dir/palette.cpp.obj	55b5792f6827d989
